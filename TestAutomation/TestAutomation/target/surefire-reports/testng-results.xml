@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-25T18:21:01 TRT" name="Surefire suite" finished-at="2024-11-25T18:22:59 TRT" duration-ms="117975">
+    <groups>
+    </groups>
+    <test started-at="2024-11-25T18:21:01 TRT" name="Surefire test" finished-at="2024-11-25T18:22:59 TRT" duration-ms="117975">
+      <class name="com.studycase.TestAutomation.FormTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.studycase.TestAutomation.FormTest@778d1062]" started-at="2024-11-25T18:21:01 TRT" name="setUp" finished-at="2024-11-25T18:21:03 TRT" duration-ms="1936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFormSubmission()[pri:0, instance:com.studycase.TestAutomation.FormTest@778d1062]" started-at="2024-11-25T18:21:03 TRT" name="testFormSubmission" finished-at="2024-11-25T18:21:15 TRT" duration-ms="11847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFormSubmission -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.studycase.TestAutomation.FormTest@778d1062]" started-at="2024-11-25T18:21:15 TRT" name="tearDown" finished-at="2024-11-25T18:21:15 TRT" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.studycase.TestAutomation.FormTest -->
+      <class name="com.studycase.TestAutomation.SearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.studycase.TestAutomation.SearchTest@794cb805]" started-at="2024-11-25T18:22:39 TRT" name="setUp" finished-at="2024-11-25T18:22:43 TRT" duration-ms="3954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchAndNavigate()[pri:0, instance:com.studycase.TestAutomation.SearchTest@794cb805]" started-at="2024-11-25T18:22:43 TRT" name="testSearchAndNavigate" finished-at="2024-11-25T18:22:59 TRT" duration-ms="16143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchAndNavigate -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.studycase.TestAutomation.SearchTest@794cb805]" started-at="2024-11-25T18:22:59 TRT" name="tearDown" finished-at="2024-11-25T18:22:59 TRT" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.studycase.TestAutomation.SearchTest -->
+      <class name="com.studycase.TestAutomation.NavbarTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.studycase.TestAutomation.NavbarTest@1f3f4916]" started-at="2024-11-25T18:21:15 TRT" name="setUp" finished-at="2024-11-25T18:21:22 TRT" duration-ms="7183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testNavbarLinks()[pri:0, instance:com.studycase.TestAutomation.NavbarTest@1f3f4916]" started-at="2024-11-25T18:21:22 TRT" name="testNavbarLinks" finished-at="2024-11-25T18:22:39 TRT" duration-ms="76350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavbarLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.studycase.TestAutomation.NavbarTest@1f3f4916]" started-at="2024-11-25T18:22:39 TRT" name="tearDown" finished-at="2024-11-25T18:22:39 TRT" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.studycase.TestAutomation.NavbarTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
